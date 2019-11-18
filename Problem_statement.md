@@ -1,10 +1,10 @@
-#Given a sentence,print each word of the sentence in a new line.
+# Given a sentence,print each word of the sentence in a new line.
 
-#Input Format: 
-##The first and only line contains a sentence,
-#Output Format
+# Input Format: 
+## The first and only line contains a sentence,
+# Output Format
 
-##Print each word of the sentence in a new line.
+## Print each word of the sentence in a new line.
 
 - Sample Input 0
 
